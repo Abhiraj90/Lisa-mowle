@@ -23,7 +23,7 @@
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER         [`CLICK HERE`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
+- OWNER NUMBER         [`CLICK HERE`](https://github.com/Abhiraj90/Lisa-mowle/blob/main/config.js#L2)
 - SESSION           [`Click Here`](https://github.com/Abhiraj90/Lisa-mowle/blob/main/session.data.json#L1)
 
 <div align="left">
@@ -37,7 +37,7 @@
 ### DEPLOY
 
   Copy this link and paste it on your browser Change Neeraj-X0 to your github username <br>
-`https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie`  
+`https://heroku.com/deploy?template=https://github.com/Abhiarj90/Lisa-mowle`  
 
 
 
