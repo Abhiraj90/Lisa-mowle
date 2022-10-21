@@ -15,7 +15,7 @@
   
 ## JOIN LISA MOWLE WHATSAPP GROUP
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png?size=1)](https://chat.whatsapp.com/BcOf8vB5KAlFQhb3c5d06b)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png?size=1)](https://chat.whatsapp.com/E05ZIzCchgYFbIL9mqqwok)
  
 ## Yotube Tutorial If You have any doubts 
   
