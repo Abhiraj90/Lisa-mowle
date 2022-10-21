@@ -16,10 +16,6 @@
 ## JOIN LISA MOWLE WHATSAPP GROUP
 
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png?size=1)](https://chat.whatsapp.com/E05ZIzCchgYFbIL9mqqwok)
- 
-## Yotube Tutorial If You have any doubts 
-  
-  [![Watch Tutorial](https://img.youtube.com/vi/5ox6VPzVSKs/0.jpg)](https://www.youtube.com/watch?v=5ox6VPzVSKs)
 
 ## `FORK AND CHANGE SETTINGS`
 
