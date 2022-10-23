@@ -8,7 +8,6 @@
   <img border-radius: 15px src="lisa-blackpink.gif" width="200" height="200"/>
 
 <p align="center">
-  <a href=""><img src="https://www.instagram.com/invites/contact/?i=z0ylniz2xqj9&utm_content=p7lnhe0"/> 
   <a href="https://wa.me/917034550879"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <div align="center">
